@@ -1,0 +1,38 @@
+#i1:active {
+    transform: scale(1.2);
+}
+#i2:active {
+    transform: scale(1.2);
+}
+#i3:active {
+    transform: scale(1.2);
+}
+#i4:active {
+    transform: scale(1.2);
+}
+#i5:active {
+    transform: scale(1.2);
+}
+#i6:active {
+    transform: scale(1.2);
+}
+#i7:active {
+    transform: scale(1.2);
+}
+#i8:active {
+    transform: scale(1.2);
+}
+#i9:active {
+    transform: scale(1.2);
+}
+#i10:active {
+    transform: scale(1.2);
+}
+#btn:active {
+    transform: scale(1.2);
+    background-color: rgb(230, 6, 230);
+}
+#footer p{
+    margin-top: 0.7rem;
+    cursor: pointer;
+}
